@@ -1,0 +1,8 @@
+npm install gulp -g
+全局安装gulp
+https://github.com/gulpjs/gulp
+mobile下建文件gulpfile.js复制过来
+新建文件夹node_modules依赖
+mobile>npm intsall gulp
+mobile>npm unintsall gulp删除当前文件夹下的gulp依赖
+npm init初始化
